@@ -5,7 +5,7 @@ import {GlobalStyle} from './styledComponents'
 const App = () => (
   <>
     <GlobalStyle />
-    <CreditCard />
+    <CreditCard /> //https://domainCreditcp3.ccbp.tech
   </>
 )
 
